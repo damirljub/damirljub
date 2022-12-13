@@ -2,10 +2,12 @@
 
 
 ## Backend dev, since 2017, from Croatia <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/hr.svg" title="Croatia" alt="Croatia" width="20"/>. 
+<br />
 
 ### :hammer_and_wrench: Languages and Tools :
 
 NodeJS, Express, Typescript, C# .NET, MongoDB, SQL, Postman, VSC, WebStorm, Studio3T, Github, Heroku, Linux
+<br />
 
 ### 📎 What I am up to:
 - :telescope: Solving my problems to help others as well. Building various projects.
@@ -13,6 +15,7 @@ NodeJS, Express, Typescript, C# .NET, MongoDB, SQL, Postman, VSC, WebStorm, Stud
 - :seedling: Exploring new technologies and writing blogs.
 
 - :zap: In my free time, I love to listen to podcasts, play board games and read books.
+<br />
 
 ## Connect with me:
 
@@ -21,9 +24,14 @@ NodeJS, Express, Typescript, C# .NET, MongoDB, SQL, Postman, VSC, WebStorm, Stud
 [<img align="left" alt="StackOverflow" width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" />][twitter]
 [<img align="left" alt="StackOverflow" width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg" />][discord]
 <br />
+<br />
+<br />
 <!-- Optional if you have blogs -->
 ## Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+<a href="https://www.cobeisfresh.com/blog/how-to-build-a-free-discord-bot-with-node-js">- How to Build a Free Discord Bot With Node.JS</a>
+
+<a href="https://dev.to/damirljub/what-plugins-do-i-use-as-a-nodejs-developer-for-vsc-1bof">- What plugins do I use as a NodeJS dev for VSC</a>
 <!-- BLOG-POST-LIST:END -->
 <!-- This section you create this variables that are used above -->
 [linkedin]: https://linkedin.com/in/damirljub
@@ -31,4 +39,7 @@ NodeJS, Express, Typescript, C# .NET, MongoDB, SQL, Postman, VSC, WebStorm, Stud
 [twitter]: https://twitter.com/damirljub
 [discord]: https://discordapp.com/users/174166402482176000
 
+<br />
+
+## Github stats:
 [![DamirLjub github stats](https://github-readme-stats.vercel.app/api?username=damirljub&count_private=true&include_all_commits=true&theme=radical)](https://github.com/damirljub)
