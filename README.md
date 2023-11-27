@@ -6,7 +6,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-NodeJS, Express, Typescript, C# .NET, MongoDB, SQL, Postman, VSC, WebStorm, Studio3T, Github, Heroku, Linux
+NodeJS, Express, Typescript, C# .NET
 <br />
 
 ### 📎 What I am up to:
