@@ -10,11 +10,11 @@ NodeJS, Express, Typescript, C# .NET
 <br />
 
 ### 📎 What I am up to:
-- :telescope: Solving my problems to help others as well. Building various projects.
+- :telescope: solving my problems to help others
 
-- :seedling: Exploring new technologies and writing blogs.
+- :seedling: exploring new technologies and writing blogs
 
-- :zap: In my free time, I love to listen to podcasts, play board games and read books.
+- :zap: in my free time, I love to listen to podcasts, watch movies, play board games and read books
 <br />
 
 ## Connect with me:
