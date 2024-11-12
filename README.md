@@ -1,7 +1,9 @@
-### Hi, I'm Damir Ljubičić <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi, I'm Damir Ljubičić <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-## Backend dev, since 2017, from Croatia <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/hr.svg" title="Croatia" alt="Croatia" width="20"/>. 
+### Backend dev
+### since 2017
+### from Croatia <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/hr.svg" title="Croatia" alt="Croatia" width="20"/>. 
 <br />
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -15,7 +17,13 @@ NodeJS, Express, Typescript, C# .NET
 - :seedling: exploring new technologies and writing blogs
 
 - :zap: in my free time, I love to listen to podcasts, watch movies, play board games and read books
-<br />
+
+
+### 🔬 Currently focusing on:
+
+- personal projects
+- blog posts
+- mentoring 
 
 ## Connect with me:
 
@@ -40,6 +48,3 @@ NodeJS, Express, Typescript, C# .NET
 [discord]: https://discordapp.com/users/174166402482176000
 
 <br />
-
-## Github stats:
-[![DamirLjub github stats](https://github-readme-stats.vercel.app/api?username=damirljub&count_private=true&include_all_commits=true&theme=radical)](https://github.com/damirljub)
