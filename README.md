@@ -9,9 +9,6 @@ Outside of work, I enjoy podcasts, movies, board and video games, and reading.
 
 ## Connect with me:
 
-[<img align="left" alt="LinkedIn" width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />][linkedin]
-[<img align="left" alt="StackOverflow" width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Stackoverflow.svg" />][soverflow]
-[<img align="left" alt="StackOverflow" width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" />][twitter]
-[<img align="left" alt="StackOverflow" width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg" />][discord]
-<br />
-<br />
+[linkedin](https://linkedin.com/in/damirljub)<br>
+[twitter](https://twitter.com/damirljub)<br>
+[discord](https://discordapp.com/users/174166402482176000)
